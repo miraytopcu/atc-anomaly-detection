@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+"git+https://github.com/openskynetwork/opensky-api.git#subdirectory=python"
+scipy
+torch

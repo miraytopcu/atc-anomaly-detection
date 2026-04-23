@@ -1,0 +1,32 @@
+# Python sanal ortamı
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Özel bilgiler ve şifreler (ÇOK KRİTİK)
+credentials.json
+.env
+collector_checkpoint.json
+
+# Veri dosyaları (Genelde büyük oldukları için pushlanmaz, ama istersen çıkarabilirsin)
+data/*.csv
+data/*.json
+data/
+data/**
+*.parquet
+
+# VS Code ayarları
+.vscode/
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
+
+x.txt
+deneme.py
+
+# Python logları ve geçici dosyalar
+*.log
+__pycache__/
+.ipynb_checkpoints/
