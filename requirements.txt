@@ -4,3 +4,7 @@ matplotlib
 "git+https://github.com/openskynetwork/opensky-api.git#subdirectory=python"
 scipy
 torch
+scikit-learn
+pyarrow
+fastparquet
+tqdm
